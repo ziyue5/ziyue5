@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/)
 - 👀 I'm actively looking for 2022 summer Software Engineer Intern
-- 🎉 I'm going to start my Master Degree Journey in CS this fall. I have been offered admission by [NYU](https://www.nyu.edu/)
+- 🎉 I'm going to start my Master Degree Journey in CS this fall. I have been offered admission by [NYU](https://www.nyu.edu/) and [UCI](https://uci.edu/)
 
 <h3 align="left">Front End:</h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
