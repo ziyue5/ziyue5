@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ziyue Zhou</h1>
 
 <p align="center">
-<a href="https://linkedin.com/in/ziyue-zhou-a992ba184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziyue-zhou-a992ba184" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/ziyue5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziyue-zhou-a992ba184" height="20" width="30" /></a>
 <a href="https://github.com/ziyue5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ziyue5" height="20" width="30" /></a>
 </p>
 <h3 align="center">New grad from Math and Computer Science at University of Illinois at Urbana-Champaign</h3>
