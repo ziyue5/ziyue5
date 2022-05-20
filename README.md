@@ -6,6 +6,8 @@
 </p>
 <h3 align="center">New grad from Math and Computer Science at University of Illinois at Urbana-Champaign</h3>
 
+[![Ziyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyue5)](https://github.com/ziyue5)
+
 - 🔭 I’m currently working at [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/)
 - 👀 I'm actively looking for 2023 summer Software Development Engineer Intern in the United States
 - 🎉 I'm going to start my Master's Degree at [UIUC](https://illinois.edu/) in CS this fall. I have also been offered admission by [Brown](https://www.brown.edu/), [NYU](https://www.nyu.edu/), [UCI](https://uci.edu/) and [Tufts](https://www.tufts.edu/)
