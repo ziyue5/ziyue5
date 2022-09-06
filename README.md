@@ -6,7 +6,10 @@
 </p>
 <h3 align="center">Master of Computer Science student at University of Illinois at Urbana-Champaign</h3>
 
-[![Ziyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyue5)](https://github.com/ziyue5)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 - 🔭 I’m currently working at [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/) as Graduate Research Assistant
 - 👀 I'm going to start my 2023 summer Software Development Engineer Intern at [Amazon](https://www.amazon.com/)
