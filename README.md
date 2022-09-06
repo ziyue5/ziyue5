@@ -4,13 +4,13 @@
 <a href="https://linkedin.com/in/ziyue5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziyue-zhou-a992ba184" height="20" width="30" /></a>
 <a href="https://github.com/ziyue5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ziyue5" height="20" width="30" /></a>
 </p>
-<h3 align="center">New grad from Math and Computer Science at University of Illinois at Urbana-Champaign</h3>
+<h3 align="center">Master of Computer Science student at University of Illinois at Urbana-Champaign</h3>
 
 [![Ziyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyue5)](https://github.com/ziyue5)
 
-- 🔭 I’m currently working at [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/)
-- 👀 I'm actively looking for 2023 summer Software Development Engineer Intern in the United States
-- 🎉 I'm going to start my Master's Degree at [UIUC](https://illinois.edu/) in CS this fall. I have also been offered admission by [Brown](https://www.brown.edu/), [NYU](https://www.nyu.edu/), [UCI](https://uci.edu/) and [Tufts](https://www.tufts.edu/)
+- 🔭 I’m currently working at [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/) as Graduate Research Assistant
+- 👀 I'm going to start my 2023 summer Software Development Engineer Intern at [Amazon](https://www.amazon.com/)
+- 🎉 I'm pursuing my Master's Degree at [UIUC](https://illinois.edu/) in CS from 2022 fall. I got my Bachelor's Degree also from [UIUC](https://illinois.edu/)
 
 <h3 align="left">Front End:</h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
