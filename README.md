@@ -7,6 +7,11 @@
 <h3 align="center">Master of Computer Science student at University of Illinois at Urbana-Champaign</h3>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working at [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/) as Graduate Research Assistant
