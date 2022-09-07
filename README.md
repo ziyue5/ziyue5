@@ -18,8 +18,7 @@ No activity tracked
 - 👀 I'm going to start my 2023 summer Software Development Engineer Intern at [Amazon](https://www.amazon.com/)
 - 🎉 I'm pursuing my Master's Degree at [UIUC](https://illinois.edu/) in CS from 2022 fall. I got my Bachelor's Degree also from [UIUC](https://illinois.edu/)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=acezvn4nkp3rujzewbjuuzlug&unique={true|1|on|yes})  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=acezvn4nkp3rujzewbjuuzlug&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=acezvn4nkp3rujzewbjuuzlug&redirect=true)
-
+<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=acezvn4nkp3rujzewbjuuzlug&unique={true|1|on|yes}"/></div>
 
 <h3 align="left">Front End:</h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
