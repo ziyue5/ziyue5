@@ -20,6 +20,8 @@ No activity tracked
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=acezvn4nkp3rujzewbjuuzlug&unique={true|1|on|yes})
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=acezvn4nkp3rujzewbjuuzlug&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=acezvn4nkp3rujzewbjuuzlug&redirect=true)
+
 ![3d Graph](profile-3d-contrib/profile-gitblock.svg)
 
 <h3 align="left">Front End:</h3>
