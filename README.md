@@ -9,12 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 September 2022 - To: 07 September 2022
+From: 06 September 2022 - To: 08 September 2022
 
-Total Time: 27 mins
+Total Time: 46 mins
 
-JavaScript   15 mins         >>>>>>>>>>>>>>-----------   56.65 %
-Java         11 mins         >>>>>>>>>>>--------------   43.35 %
+Python       19 mins         >>>>>>>>>>---------------   41.84 %
+JavaScript   15 mins         >>>>>>>>-----------------   32.95 %
+Java         11 mins         >>>>>>-------------------   25.21 %
 ```
 
 <!--END_SECTION:waka-->
