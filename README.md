@@ -22,7 +22,6 @@ CSS                              >------------------------   02.12 %
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working at [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/) as Graduate Research Assistant
-- 👀 I'm going to start my 2023 summer Software Development Engineer Intern at [Amazon](https://www.amazon.com/)
 - 🎉 I'm pursuing my Master's Degree at [UIUC](https://illinois.edu/) in CS from 2022 fall. I got my Bachelor's Degree also from [UIUC](https://illinois.edu/)
 
 <div align="left"><img src="https://spotify-recently-played-readme.vercel.app/api?user=acezvn4nkp3rujzewbjuuzlug&unique={true|1|on|yes}"/><img src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966"/ width="350"></div>
