@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2022 - To: 05 January 2023
+From: 06 January 2022 - To: 06 January 2023
 
 TypeScript                       >>>>>>>>>>>>>>>>>>-------   70.76 %
 Python                           >>>----------------------   11.83 %
