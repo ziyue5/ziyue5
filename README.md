@@ -9,9 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2022 - To: 30 August 2023
+From: 01 September 2022 - To: 01 September 2023
 
-TypeScript                       >>>>>>>>>>>>>>>----------   60.75 %
+TypeScript                       >>>>>>>>>>>>>>>----------   60.74 %
 JavaScript                       >>>>>>-------------------   22.14 %
 Python                           >------------------------   04.90 %
 JSON                             >------------------------   03.39 %
