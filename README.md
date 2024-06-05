@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2023 - To: 03 June 2024
+From: 05 June 2023 - To: 04 June 2024
 
 TypeScript                        >>>>>>>>>>>--------------   45.04 %
 JavaScript                        >>>>>--------------------   20.17 %
