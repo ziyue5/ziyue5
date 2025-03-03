@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 February 2024 - To: 28 February 2025
+From: 01 March 2024 - To: 01 March 2025
 
 JavaScript                        >>>>>>>------------------   26.22 %
 JSON                              >>>>>>-------------------   25.91 %
